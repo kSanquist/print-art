@@ -66,7 +66,9 @@ Here are some examples of templates that are created for you by default:
 ![Example Template 3](templates/5px_10x5_1lw.png)
 
 ## Step 2: Creating Your Pixel Art Masterpiece Using your Template
+### Now that you have your pristine, one-of-a-kind, custom template, you can start creating your pixel art magnum opus with it! As of version 1.0, there is no paint tool built into the application so a 3rd-party painting software is required. Any painting software works, however, this example will focus on using Microsoft Paint.  
 
+This step is fairly simple all you have to do is open your created template, saved in the *templates* folder, in your chosen paint software:
 
 
 
