@@ -57,6 +57,14 @@ GRID SQUARE HEIGHT & WIDTH : 60
 ```
 The template would be saved under the file name: *60px_5x9_3lw.png*
 
+Here are some examples of templates that are created for you by default:  
+
+![Example Template 1](templates/60px_10x10_3lw.png)
+
+![Example Template 2](templates/20px_5x8_7lw.png)
+
+![Example Template 3](templates/5px_10x5_1lw.png)
+
 ## Step 2: Creating Your Pixel Art Masterpiece Using your Template
 
 
