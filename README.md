@@ -118,5 +118,10 @@ What would you like to do?
 ```
 * Option 3, "Print all images in a given directory" is what we're looking for here
 
-After you input that option the process for printing is almost identical to what we went through when printing a single image magnum opus:  
+After you input that option the process for printing is almost identical to what we went through when printing a single image magnum opus. The only difference is you'll be asked to select a folder, in which your pixel art pieces reside, instead of a PNG file.  
+***!!! WARNING !!!*** Keep in mind that all non-PNG files in the directory of your choosing will be skipped during printing!  
 
+For this example we'll print all the images in the 'image' directory (*it isn't required that you put your pixel artworks in the 'images' folder, it is simply provided for your convinence*):
+![Printing a Bunch of Images](readme_graphics/printing_alot.png)  
+
+Once you've selected your folder, all you need to do is wait a varrying amount of time based on the size of your creations, and you'll have your portfolio in front of you printing in prestine color in the terminal!  
