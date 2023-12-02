@@ -12,6 +12,11 @@
 ### To start, we need an appropriately sized canvas. For this example, I'll use a 20x20 pixel canvas:
 ![Photoshop Canvas Details](readme_imgs/canvas-details.png)
 
+### We now have our canvas, and can start drawing, here's the pencil settings I use for my pixel art:
+![Photoshop Pencil Settings](readme_imgs/pencil-details.png)
+
+### Now that we have our canvas and pencil set up we can create our magnum opus, here's what I came up with:
+![My Masterpiece](readme_imgs/masterpiece.png)
 
 ## Step 2: Creating Your Pixel Art Masterpiece Using your Template
 ### Now that you have your pristine, one-of-a-kind, custom template, you can start creating your pixel art magnum opus with it! As of version 1.0, there is no paint tool built into the application so a 3rd-party painting software is required. Any painting software works, however, this example will focus on using Microsoft Paint.  
