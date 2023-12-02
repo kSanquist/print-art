@@ -1,4 +1,4 @@
-![Print(art) Title Image](images/print_art.png)
+![Print(art) Title Image](readme_imgs/print-art.png)
 
 # What is Print(art)?
 ### Print(art) is a Python application that allows you to print your pixel art masterpieces to the terminal in full color! 
@@ -9,7 +9,8 @@
 ## Step 1: Creating Your Pixel Art Masterpiece!
 ### Your quest for creating pixel art that Vincent Van Gogh would drool over starts in your painting software of choice! For this walkthrough, I'll be using Adobe Photoshop, but there are plenty of free painting applications that will work perfectly.
 
-### To start, we need an appropriately sized canvas. For this example, I'll use 
+### To start, we need an appropriately sized canvas. For this example, I'll use a 20x20 pixel canvas:
+![Photoshop Canvas Details](readme_imgs/canvas-details.png)
 
 
 ## Step 2: Creating Your Pixel Art Masterpiece Using your Template
